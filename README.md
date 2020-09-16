@@ -82,7 +82,7 @@ So, thats actually pretty much it.
 
 "git" is a fancy way to save folders with history. Truthfully, plenty of developers don't bother to use git from the terminal. In this section we'll do it once to get the vocabulary down, then in the future I suggest using a program like SourceTree. Steps 4-8 would be easier. 
 
-There are several tutorials on git that are better than this one, so here we'll learn by doing. 
+There are several tutorials on git that are better than this one, so I won't go too deep into how it works. Instead we will go through a typical work flow by having you edit this file and then upload a change to this project.
 
 1. Clone this project. Like, the one this file is in. We're going to get meta with this.   
 ```git clone https://github.com/jjallen37/BashfulMeghan.git```  
