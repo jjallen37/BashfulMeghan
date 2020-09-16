@@ -63,6 +63,7 @@ Everything you will ever type in the terminal will be in this format.
 
 # In Mac, open the current folder in Finder
 # That "." means "right here where I am"
+> open .
 *opens folder in finder*
 
 # Show me the files and folders in the folder I'm in
