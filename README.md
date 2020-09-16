@@ -1,9 +1,22 @@
 # Bash_Lesson
 
 1. Intro
-2. Terminal Basics
-3. Git
-4. iTerm2 and VsCode!
+2. iTerm2 and VsCode!
+3. Terminal Basics
+5. Git
+
+
+## Tools
+- iTerm2 - Terminal, but with tabs and nifty stuff.  
+https://iterm2.com/
+
+- VS Code - A great text/code editor which can display this file well. https://code.visualstudio.com/
+  - Open this file in VSCode
+  - Press CMD + Shift + P 
+  - Type "Markdown"
+  - Select "Markdown: Open Preview to the side"
+  - This file will show up prety on the right and refresh as you type. It should look basically the same as the GitHub page.
+  - For more information on Markdown files (https://www.markdownguide.org/)
 
 
 ## Terminal Basics
