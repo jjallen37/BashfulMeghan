@@ -91,6 +91,17 @@ So, thats actually pretty much it.
 - `open .` to change to finder and work like a normal person
 
 
+### Wait! I don't know command X! (ex. "brew", "cd") 
+The "man" command, the most sexist command in UNIX. Freaking manuals. Use this to get documentation on a command.
+```
+man <cmd>
+```
+
+Try typing:
+```
+man git 
+```
+
 ## Git
 
 "git" is a fancy way to save folders with history. Truthfully, plenty of developers don't bother to use git from the terminal. In this section we'll do it once to get the vocabulary down, then in the future I suggest using a program like SourceTree. Steps 4-8 would be easier. 
@@ -141,3 +152,5 @@ This will show the same thing as before but will indicate your file is ready to 
 13. Pull the latest changes from GitHub.  
 `git pull` or  
 `git pull origin master`
+
+
