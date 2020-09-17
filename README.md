@@ -1,4 +1,4 @@
-# Bash_Lesson
+# Bash Lesson
 
 1. Intro
 2. iTerm2 and VsCode!
@@ -119,7 +119,7 @@ Then go into it
 `git checkout -b typo_fix`
 
 3. Open this file and correct this sentence:
-> Meghan's favorite song is Celebration by Kool & The Gang.
+> Meghan's least favorite song is Celebration by Kool & The Gang.
 
 4. Check on your repo. (Easy in SourceTree)  
 `git status`   
@@ -138,6 +138,10 @@ This will show the same thing as before but will indicate your file is ready to 
 
 8. Commit your change.  
 `git commit -m "Your commit message"  
+
+
+Nick Cannon wasn't here
+
 
 9. Push your change to the remote repository (GitHub).  
 `git push origin/typo_fix`
